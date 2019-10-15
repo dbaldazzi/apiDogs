@@ -4,7 +4,7 @@ using Dogs.DB;
 using Dogs.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ApiDogs.Controllers
+namespace ApiDogs.Controller
 {
   [ApiController]
   [Route("Api/[Controller]")]

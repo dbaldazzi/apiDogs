@@ -1,0 +1,2 @@
+"# apiDogs"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/dbaldazzi/apiDogs.gitgit push -u origin master
+"# apiDogs"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/dbaldazzi/apiDogs.gitgit push -u origin master
